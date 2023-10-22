@@ -1,0 +1,14 @@
+NCORES 2   
+START   10 
+CPU  200 
+LOCK 1  
+CPU  10 
+SSD  300 
+CPU  100 
+SSD  300 
+CPU  10 
+UNLOCK 1  
+CPU   200  
+OUTPUT 10 
+CPU    10 
+END   
